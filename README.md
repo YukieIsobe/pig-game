@@ -1,7 +1,9 @@
 # pig-game
+https://yukieisobe.github.io/pig-game/
+
 designed and guided by Jonas Schmedtmann.
 
-used vanilla JavaScript to work the game.
+used vanilla JavaScript to make the game work.
 
 ## how to play
 play with two players.
